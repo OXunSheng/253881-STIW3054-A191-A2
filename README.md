@@ -39,7 +39,7 @@ The instructions of this assignment are as follow:
 <br>![excel5](https://user-images.githubusercontent.com/38216203/68172575-059e4c80-ffb3-11e9-9b52-f331ecc31874.PNG)
 
 ## UML Class Diagram
-![ASSIGNMENT1](https://user-images.githubusercontent.com/38216203/67153567-72acb380-f31e-11e9-857c-cb10001a5204.png)
+![ClassDiagram](https://user-images.githubusercontent.com/38216203/68174968-a5130d80-ffba-11e9-80d7-802a804c450c.png)
 ## YouTube Presentation
 [253881-STIW3054-A191-A2](https://youtu.be/_fFlGJ66BsY "253881-STIW3054-A191-A2")
 ## References
