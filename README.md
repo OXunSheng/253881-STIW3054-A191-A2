@@ -49,8 +49,8 @@ The instructions of this assignment are as follow:
 <br><br>3. [Web Scraping with Java: Scrape IMDB Top 250](https://www.youtube.com/watch?v=ZpBWXTa-aIg "Web Scraping with Java: Scrape IMDB Top 250")
 
 <br>**Other references**
-<br><br>1. ArrayList (Java Platform SE 8 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
-<br><br>2. Element (jsoup Java HTML Parser 1.12.1 API). (n.d.). Retrieved from jsoup Java HTML Parser, with best of DOM, CSS, and jquery: https://jsoup.org/apidocs/org/jsoup/nodes/Element.html
+<br><br>1. Executors (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Executors.html
+<br><br>2. ExecutorService (Java Platform SE 8 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ExecutorService.html
 <br><br>3. Pattern (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
 <br><br>4. Use selector-syntax to find elements: jsoup Java HTML parser. (n.d.). Retrieved from jsoup Java HTML Parser, with best of DOM, CSS, and jquery: https://jsoup.org/cookbook/extracting-data/selector-syntax
 <br><br>5. YellowRose. (n.d.). Add Border to Excel Cell - Java POI Example Program | ThinkTibits! Retrieved from ThinkTibits!: https://thinktibits.blogspot.com/2012/12/Excel-Add-Cell-Border-Java-POI-Example-Program.html
