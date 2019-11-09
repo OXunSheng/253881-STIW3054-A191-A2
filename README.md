@@ -43,7 +43,7 @@ The instructions of this assignment are as follow:
 ## YouTube Presentation
 [253881-STIW3054-A191-A2](https://youtu.be/_fFlGJ66BsY "253881-STIW3054-A191-A2")
 ## References
-<br>1. Executors (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Executors.html
+1. Executors (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Executors.html
 <br><br>2. ExecutorService (Java Platform SE 8 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ExecutorService.html
 <br><br>3. Basu, S. (2017, May 31). How to Parse JSON Data From a REST API Using a Simple JSON Library - DZone Integration. Retrieved from DZone: Programming & DevOps news, tutorials & tools: https://dzone.com/articles/how-to-parse-json-data-from-a-rest-api-using-simpl
 <br><br>4. Shah, A. (n.d.). How to Run Multiple Threads Concurrently in Java? ExecutorService Approach • Crunchify. Retrieved from Crunchify • Largest free Technical and Blogging resource site for Beginner. We help clients transform their great ideas into reality!: https://crunchify.com/how-to-run-multiple-threads-concurrently-in-java-executorservice-approach/
