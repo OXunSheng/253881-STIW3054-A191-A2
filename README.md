@@ -43,15 +43,10 @@ The instructions of this assignment are as follow:
 ## YouTube Presentation
 [253881-STIW3054-A191-A2](https://youtu.be/_fFlGJ66BsY "253881-STIW3054-A191-A2")
 ## References
-**YouTube Link**
-<br><br>1. [Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text](https://www.youtube.com/watch?v=sa-TUpSx1JA "Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text")
-<br><br>2. [Web Scraping with Java(Extract Website Data): The EASY Way](https://www.youtube.com/watch?v=0s8O7jfy3c0 "Web Scraping with Java(Extract Website Data): The EASY Way")
-<br><br>3. [Web Scraping with Java: Scrape IMDB Top 250](https://www.youtube.com/watch?v=ZpBWXTa-aIg "Web Scraping with Java: Scrape IMDB Top 250")
-
-<br>**Other references**
 <br><br>1. Executors (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Executors.html
 <br><br>2. ExecutorService (Java Platform SE 8 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ExecutorService.html
-<br><br>3. Pattern (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html
-<br><br>4. Use selector-syntax to find elements: jsoup Java HTML parser. (n.d.). Retrieved from jsoup Java HTML Parser, with best of DOM, CSS, and jquery: https://jsoup.org/cookbook/extracting-data/selector-syntax
-<br><br>5. YellowRose. (n.d.). Add Border to Excel Cell - Java POI Example Program | ThinkTibits! Retrieved from ThinkTibits!: https://thinktibits.blogspot.com/2012/12/Excel-Add-Cell-Border-Java-POI-Example-Program.html
-<br><br>6. Singh, R. (2017, December 24). How to Write to an Excel file in Java using Apache POI | CalliCoder. Retrieved from CalliCoder | Programming, Web & Desktop App Development Tutorials: https://www.callicoder.com/java-write-excel-file-apache-poi/
+<br><br>3. Basu, S. (2017, May 31). How to Parse JSON Data From a REST API Using a Simple JSON Library - DZone Integration. Retrieved from DZone: Programming & DevOps news, tutorials & tools: https://dzone.com/articles/how-to-parse-json-data-from-a-rest-api-using-simpl
+<br><br>4. Shah, A. (n.d.). How to Run Multiple Threads Concurrently in Java? ExecutorService Approach • Crunchify. Retrieved from Crunchify • Largest free Technical and Blogging resource site for Beginner. We help clients transform their great ideas into reality!: https://crunchify.com/how-to-run-multiple-threads-concurrently-in-java-executorservice-approach/
+<br><br>5. Using Curl in Java | Baeldung. (n.d.). Retrieved from Baeldung | Java, Spring and Web Development tutorials: https://www.baeldung.com/java-curl
+<br><br>6. YellowRose. (n.d.). Add Border to Excel Cell - Java POI Example Program | ThinkTibits! Retrieved from ThinkTibits!: https://thinktibits.blogspot.com/2012/12/Excel-Add-Cell-Border-Java-POI-Example-Program.html
+<br><br>7. Singh, R. (2017, December 24). How to Write to an Excel file in Java using Apache POI | CalliCoder. Retrieved from CalliCoder | Programming, Web & Desktop App Development Tutorials: https://www.callicoder.com/java-write-excel-file-apache-poi/
