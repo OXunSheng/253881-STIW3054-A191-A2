@@ -41,7 +41,7 @@ The instructions of this assignment are as follow:
 ## UML Class Diagram
 ![ClassDiagram](https://user-images.githubusercontent.com/38216203/68259800-d8ff3900-0075-11ea-97ec-7d9a5dd05a61.png)
 ## YouTube Presentation
-[253881-STIW3054-A191-A2](https://youtu.be/_fFlGJ66BsY "253881-STIW3054-A191-A2")
+[253881-STIW3054-A191-A2](https://youtu.be/dT-9F1MkvxY "253881-STIW3054-A191-A2")
 ## References
 <br>1. Executors (Java Platform SE 7 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Executors.html
 <br><br>2. ExecutorService (Java Platform SE 8 ). (n.d.). Retrieved from Oracle Help Center: https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/ExecutorService.html
